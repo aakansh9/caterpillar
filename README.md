@@ -10,7 +10,7 @@ This was executed and tested on c3.4xlarge ami on AWS, cores=16, RAM=30gb. Execu
 
 To run do the following:
 
-1. Download the data
+1. [Download the data](https://www.kaggle.com/c/caterpillar-tube-pricing/data)
 2. Install packages as required in RunMe.R
 3. Modify paths and run RunMe.R
 4. A submission folder is then generated containing the submission.
