@@ -6,7 +6,7 @@ Date: "September 1, 2015"
 
 This repo contains code for Rank 29 model for the [Caterpillar Tube Pricing Challenge](https://www.kaggle.com/c/caterpillar-tube-pricing). It gives RMSE score 0.209920 on Private Leaderboard.
 
-This was executed and tested on c3.4xlarge ami on AWS, cores=16, RAM=30gb. Executing requires R 3.2.2 along with packages h2o and xgboost.
+This was executed and tested on c3.4xlarge ami on AWS, cores=16, RAM=30gb. Executing requires R 3.2.2 along with packages h2o 3 and xgboost.
 
 To run do the following:
 
